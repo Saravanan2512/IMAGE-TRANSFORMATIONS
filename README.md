@@ -129,12 +129,14 @@ plt.show()
 
 ```
 ## Output:
-```
+
 ## Output:
 ### i)Image Translation
+
 ![image](https://github.com/user-attachments/assets/1e000b48-75a5-4c71-9ec9-95b51124be2e)
 
 ### ii) Image Scaling
+
 ![image](https://github.com/user-attachments/assets/a38e4183-8c2a-4be7-9753-3b2326af56da)
 
 
