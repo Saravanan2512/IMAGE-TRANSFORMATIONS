@@ -7,15 +7,6 @@ To perform image transformation such as Translation, Scaling, Shearing, Reflecti
 ## Software Required:
 Anaconda - Python 3.7
 
-## Algorithm:
-### Step1:
-<br>
-
-### Step2:
-<br>
-
-### Step3:# IMAGE-TRANSFORMATIONS
-
 
 ## Aim
 To perform image transformation such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping using OpenCV and Python.
